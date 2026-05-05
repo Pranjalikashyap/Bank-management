@@ -23,3 +23,6 @@ A Bank Management System built using Python and Streamlit.
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+
+## live link
+https://bank-management-hmyddbnvqylaob2kbc2hm6.streamlit.app/
